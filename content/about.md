@@ -1,8 +1,11 @@
-+++
-date = '2024-12-09T21:29:42+01:00'
-draft = false
-title = 'About'
-+++
+---
+date: '2024-12-09T21:29:42+01:00'
+draft: false
+title: 'About'
+showDate : false
+showReadingTime : false
+showWordCount : false
+---
 Hi, I’m Guido! I’m a software engineer with over 10 years of experience and a knack for solving tricky problems. 
 These days, I’m at BeFrank, where I try to make pensions... well, maybe not exciting, but definitely safe and sound! 
 
