@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guidoos.github.io/blog/sitemap.xml
