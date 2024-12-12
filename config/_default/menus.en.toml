@@ -1,0 +1,22 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "pxKZV60uja"
+weight = 10
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 20
+
+[[main]]
+pre = "github"
+url = "https://github.com/guidoos"
+identifier = "SK0SEecCnp"
+weight = 30
+
+[[footer]]
+none = "none"
