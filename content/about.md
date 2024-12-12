@@ -1,6 +1,6 @@
 +++
 date = '2024-12-09T21:29:42+01:00'
-draft = true
+draft = false
 title = 'About'
 +++
 Hi, I’m Guido! I’m a software engineer with over 10 years of experience and a knack for solving tricky problems. 
