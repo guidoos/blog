@@ -12,9 +12,7 @@ title = "DO2S"
 
  [params.author]
    name = "Guido van der Zanden"
-#   email = "youremail@example.com"
    image = "IMG_6262.jpeg"
-#   imageQuality = 96
    headline = "Senior Software Engineer @ BeFrank"
    bio = "Senior Software Engineer @ BeFrank"
    links = [
