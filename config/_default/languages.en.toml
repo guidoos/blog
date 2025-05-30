@@ -11,8 +11,8 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [params.author]
-#   name = "Guido van der Zanden"
-image = "IMG_6262.jpeg"
+name = "Guido"
+image = "avatar-2.jpeg"
 headline = "Senior Software Engineer @ BeFrank"
 bio = "Senior Software Engineer @ BeFrank"
 links = [
